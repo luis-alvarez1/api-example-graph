@@ -1,4 +1,4 @@
-# api-example-graph-bootcamp
+# api-example-graph
 
 1. ejecutar npm install 
 2. ejecutar npm run dev para el servidor de desarrollo
